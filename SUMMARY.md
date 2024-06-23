@@ -1,0 +1,42 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [De-AI Agent](de-ai-agent/README.md)
+  * [AI721](de-ai-agent/ai721.md)
+  * [Workflow](de-ai-agent/workflow/README.md)
+    * [Workflow of LangGraph](de-ai-agent/workflow/workflow-of-langgraph.md)
+    * [Workflow of Dify.ai](de-ai-agent/workflow/workflow-of-dify.ai.md)
+    * [Workflow of CrewAI](de-ai-agent/workflow/workflow-of-crewai.md)
+  * [Best Practice: The Example of Azuki Collection](de-ai-agent/best-practice-the-example-of-azuki-collection.md)
+  * [Best Practice: The Example of AI Agent](de-ai-agent/best-practice-the-example-of-ai-agent.md)
+* [Gonesis Tokenomic](gonesis-tokenomic/README.md)
+  * [Talk-to-Earn Rewards](gonesis-tokenomic/talk-to-earn-rewards.md)
+  * [Mining Rewards](gonesis-tokenomic/mining-rewards.md)
+  * [Token Utilities](gonesis-tokenomic/token-utilities.md)
+  * [Creator Economy](gonesis-tokenomic/creator-economy.md)
+* [Gonesis Chat](gonesis-chat/README.md)
+  * [Talk-to-Earn & Token Model](gonesis-chat/talk-to-earn-and-token-model.md)
+  * [PFP Attributes](gonesis-chat/pfp-attributes.md)
+  * [PFP Rental](gonesis-chat/pfp-rental.md)
+  * [Gonesis C1](gonesis-chat/gonesis-c1.md)
+* [Gonesis Neuro Net](gonesis-neuro-net/README.md)
+  * [Architecture](gonesis-neuro-net/architecture.md)
+  * [Neuro Node](gonesis-neuro-net/neuro-node/README.md)
+    * [Soul Chip](gonesis-neuro-net/neuro-node/soul-chip.md)
+    * [Delegation](gonesis-neuro-net/neuro-node/delegation.md)
+  * [DePIN Connector](gonesis-neuro-net/depin-connector.md)
+
+## Genesis NFT
+
+* [🖼️ IP & Worldview](genesis-nft/ip-and-worldview/README.md)
+  * [🏜️ Region](genesis-nft/ip-and-worldview/region.md)
+  * [🤠 Traveler](genesis-nft/ip-and-worldview/traveler.md)
+  * [📖 Settings](genesis-nft/ip-and-worldview/settings.md)
+* [Gonesis Ring 💍](genesis-nft/gonesis-ring.md)
+* [Gonesis Traveler](genesis-nft/gonesis-traveler.md)
+
+## Links
+
+* [Website](https://gonesis.ai)
+* [X](https://x.com/GonesisAI)
+* [Discord](https://discord.com/invite/gonesis)
