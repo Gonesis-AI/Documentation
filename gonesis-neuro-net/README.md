@@ -6,9 +6,9 @@
 
 The vision of Neuro Net is to become:
 
-* ths most used gateway to access billions of AI agents,
+* ths most used gateway to access billions of various AI agents,
 * the world's largest decentralized AI agents store,&#x20;
-* the world's most active AI agent creation platform.
+* the world's most active and healthy AI creator economy.
 
 ## Why We Need Neuro Net?
 

@@ -7,3 +7,25 @@ CrewAI is a cutting-edge framework for orchestrating role-playing, autonomous AI
 * [Documentation](https://docs.crewai.com/core-concepts/Agents/)
 
 ## Schema
+
+### Node
+
+| Field | Type | Description |
+| ----- | ---- | ----------- |
+|       |      |             |
+|       |      |             |
+|       |      |             |
+
+### Edge
+
+| Field | Type | Description |
+| ----- | ---- | ----------- |
+|       |      |             |
+|       |      |             |
+|       |      |             |
+
+### Example
+
+```
+// Some code
+```

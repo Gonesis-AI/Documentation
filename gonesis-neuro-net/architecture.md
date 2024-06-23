@@ -12,4 +12,5 @@ By leveraging blockchain, cryptography, LLMs, and edge computing technologies, *
 * [**DePIN Connector**](depin-connector.md): Natively integrates with DePIN, allowing decentralized access to external data interfaces to gather various forms of external feedback.
   * **Storage Module**: Offers storage facilities supporting SQL, NoSQL, vector databases, Filecoin, Arweave, etc, which can be used for external knowledge bases and memories.
   * **Computing Power Module**: Integrates existing decentralized computational power networks such as [io.net](https://io.net) and [Aethir](https://aethir.com), and supports efficient and economical model training, fine-tuning, and inference.
-  * **Physical Data Module:** Integrates with physical world data sources like temperature, acceleration, location, health data, etc, enabling AI agents to interact with and respond to real-time physical data.
+  * **Physical Data Module:** Integrates with real-time physical data sources such as temperature, acceleration, location, and health metrics, allowing AI agents to interact and respond dynamically.
+* [**Knowledge Base**](g-kb-gonesis-knowledge-base/)**:** Provides high reliablity, unlimited external knowledge base extensions for AI agents, with privacy protection.

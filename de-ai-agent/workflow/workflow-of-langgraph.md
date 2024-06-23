@@ -8,4 +8,24 @@ LangGraph is a lib to build LLM-based agents as graphs.
 
 ## Schema
 
-TODO
+### Node
+
+| Field | Type | Description |
+| ----- | ---- | ----------- |
+|       |      |             |
+|       |      |             |
+|       |      |             |
+
+### Edge
+
+| Field | Type | Description |
+| ----- | ---- | ----------- |
+|       |      |             |
+|       |      |             |
+|       |      |             |
+
+### Example
+
+```
+// Some code
+```

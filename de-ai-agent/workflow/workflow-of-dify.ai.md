@@ -8,4 +8,26 @@ Dify is an open-source large language model (LLM) application development platfo
 
 ## Schema
 
-TODO
+### Node
+
+| Field | Type   | Description |
+| ----- | ------ | ----------- |
+| type  | string |             |
+| title | string |             |
+| desc  | string |             |
+| id    | string |             |
+
+### Edge
+
+| Field      | Type   | Description |
+| ---------- | ------ | ----------- |
+| sourceId   | string |             |
+| sourceType | string |             |
+| targetId   | string |             |
+| targetType | string |             |
+
+### Example
+
+```
+// Some code
+```

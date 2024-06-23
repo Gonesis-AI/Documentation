@@ -9,6 +9,7 @@
     * [Workflow of CrewAI](de-ai-agent/workflow/workflow-of-crewai.md)
   * [Best Practice: The Example of Azuki Collection](de-ai-agent/best-practice-the-example-of-azuki-collection.md)
   * [Best Practice: The Example of AI Agent](de-ai-agent/best-practice-the-example-of-ai-agent.md)
+  * [Applications](de-ai-agent/applications.md)
 * [Gonesis Tokenomic](gonesis-tokenomic/README.md)
   * [Talk-to-Earn Rewards](gonesis-tokenomic/talk-to-earn-rewards.md)
   * [Mining Rewards](gonesis-tokenomic/mining-rewards.md)
@@ -25,6 +26,10 @@
     * [Soul Chip](gonesis-neuro-net/neuro-node/soul-chip.md)
     * [Delegation](gonesis-neuro-net/neuro-node/delegation.md)
   * [DePIN Connector](gonesis-neuro-net/depin-connector.md)
+  * [AI Creator Platform](gonesis-neuro-net/ai-creator-platform.md)
+  * [G-AOS (Gonesis AI Orchestration Studio)](gonesis-neuro-net/g-aos-gonesis-ai-orchestration-studio.md)
+  * [G-KB (Gonesis Knowledge Base)](gonesis-neuro-net/g-kb-gonesis-knowledge-base/README.md)
+    * [Retrieval-Augmented Generation (RAG)](gonesis-neuro-net/g-kb-gonesis-knowledge-base/retrieval-augmented-generation-rag.md)
 
 ## Genesis NFT
 

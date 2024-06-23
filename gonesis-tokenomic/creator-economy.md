@@ -1,7 +1,17 @@
 # Creator Economy
 
-A healthy, sustainable and profitable **creator economy for AI agents** is crucial for fostering innovation and democratizing access to advanced technologies. By empowering individuals and small enterprises to create, deploy, and monetize AI agents, we can accelerate mass adoption of AI agents across various industries. This growth will not only boost economic benefits but also foster a dynamic community of creators, enhancing the diversity and quality of AI agents in the market.
+## The Monivation
 
-**To achieve this, we will allocate a certain amount of $GAI to attract and incentivize AI agent creators for generating high-quality AI Agents in Gonesis ecosystem.**
+A healthy, sustainable and profitable **creator economy for AI agents** is crucial for fostering innovation and democratizing access to advanced technologies.&#x20;
 
-More details are coming soon.
+By empowering individuals and small enterprises to create, deploy, and monetize AI agents, we can accelerate mass adoption of AI agents across various industries.&#x20;
+
+This growth will not only boost economic benefits but also foster a dynamic community of creators, enhancing the diversity and quality of AI agents in the market.
+
+## Benefits
+
+As an AI agent creator in Gonesis, you can benefit in the following ways:
+
+* Application developers will pay **$GAI** for utilizing AI agents.
+* One-time payment for creating AI agents to meet specific needs.
+* Early Creator Incentive Program with **$GAI** allocated by Gonesis.

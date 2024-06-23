@@ -2,9 +2,9 @@
 
 Gonesis Chat is an AI chat application powered by [AI721](../de-ai-agent/ai721.md) (AI-NFT) and DePIN, similar to ChatGPT, but with the added benefit of earning token.
 
-All AI agents in Gonesis Chat are AI-NFTs that you can train, lend, or rent from others to meet everyday needs. Also, we will onboard existing NFT collections to turn into AI agents, enhancing them with more interactive features.
+All AI characters in Gonesis Chat are AI-NFTs that you can train, lend, or rent from others to meet everyday needs. Also, we will onboard existing NFT collections to turn into AI characters, enhancing them with more interactive features.
 
-Additionally, Gonesis Chat will be the first ecosystem to incentivize the creators of AI agents.
+Gonesis Chat will be the first application built on [Gonesis Neuro Net](../gonesis-neuro-net/).
 
 ## Talk-to-Earn
 

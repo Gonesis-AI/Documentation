@@ -1,5 +1,5 @@
 ---
-description: Building a decentralized AI agents network.
+description: Building the world's largest decentralized AI agents network.
 cover: .gitbook/assets/20240329-153720.jpeg
 coverY: 0
 layout:
@@ -22,7 +22,7 @@ layout:
 
 ## Vision\&Mission
 
-Our vision is **buiding the largest decentralized AI agents network,** that's accessible, transparent, equitable, and creative for everyone worldwide.
+Our vision is **buiding the world's largest decentralized AI agents network,** that's accessible, transparent, equitable, and creative for everyone worldwide.
 
 Our mission is **to accelerate the mass adoption of AI in a decentralized way.**
 
@@ -72,23 +72,23 @@ Check more details:
 [ai721.md](de-ai-agent/ai721.md)
 {% endcontent-ref %}
 
-## Creator Economy and Open Ecosystem
+## Creator Economy
 
-We utilize token economy to attract AI agent creators with different background, to create high-quality AI agents in a decentralized environment, and make them profitable.
+In the near future, **AI agent creators** will become a highly paid profession.
 
-We also standardize interaction rules and make them available to all the other existing NFT projects, so they can create customized real-world interaction rules for their AI-NFTs, with incentives.
+We utilize token economy to attract AI agent creators with different knowledge and professional skills, allowing them to create high-quality AI agents in the easiest way, and **enable them to earn money**.
 
-To achieve this in a light-weight way, we plan to partner with some notable projects in AI and DePIN area to offer engaging experiences linked to the real world in decentralizied ways.
+**The better the AI agent you create, the more you earn from it.**
 
-Also, we will launch a smart hardware in collaboration with hardware partners, integrating exclusive experience into the design of NFT gameplay.
+We will also support the existing open-source  AI agent orchestration tools like Dify.ai and CrewAI,  and provide a unified interface for application developers. **Most importantly, developers will pay the creators.**
 
 ## Gonesis Chat
 
 [Gonesis Chat](./#gonesis-chat) is an AI chat application powered by [AI721](de-ai-agent/ai721.md) (AI-NFT) and DePIN, similar to ChatGPT, but with the added benefit of earning token.
 
-All AI agents in Gonesis Chat are AI-NFTs that you can train, lend, or rent from others to meet everyday needs. Also, we will onboard existing NFT collections to turn into AI agents, enhancing them with more interactive features.
+All AI characters in Gonesis Chat are AI-NFTs that you can train, lend, or rent from others to meet everyday needs. Also, we will onboard existing NFT collections to turn into AI characters, enhancing them with more interactive features.
 
-Additionally, Gonesis Chat will be the first ecosystem to incentivize the creators of AI agents.
+**Gonesis Chat will be the first product that incentivizes both users and creators, built on** [**Neuro Net**](./#neuro-net)**.**
 
 ## Enable AI to interact with Reality
 
