@@ -33,7 +33,7 @@
 
 ## Genesis NFT
 
-* [🖼️ IP & Worldview](genesis-nft/ip-and-worldview/README.md)
+* [IP & Worldview](genesis-nft/ip-and-worldview/README.md)
   * [🏜️ Region](genesis-nft/ip-and-worldview/region.md)
   * [🤠 Traveler](genesis-nft/ip-and-worldview/traveler.md)
   * [📖 Settings](genesis-nft/ip-and-worldview/settings.md)
