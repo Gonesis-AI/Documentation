@@ -6,7 +6,7 @@ cover: ../../.gitbook/assets/image (33).png
 coverY: 187.38719285182432
 ---
 
-# 📖 Settings
+# Settings
 
 ## **Theme Story**
 

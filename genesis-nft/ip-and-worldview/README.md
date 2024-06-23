@@ -1,4 +1,4 @@
-# 🖼️ IP & Worldview
+# IP & Worldview
 
 ## AI-based IP Brand
 

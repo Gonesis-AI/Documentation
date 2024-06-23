@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 🏜️ Region
+# Region
 
 _Traveler, your journey is about to begin._
 

@@ -20,7 +20,7 @@ layout:
     visible: true
 ---
 
-# 🤠 Traveler
+# Traveler
 
 
 
