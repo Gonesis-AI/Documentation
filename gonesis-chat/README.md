@@ -28,11 +28,5 @@ Both PC and Mobile (IOS\&Android).
 
 You can access most of the Gonesis AI features and the whole Talk-to-Earn experience through the app.&#x20;
 
-However, if you want to truly experience the charm of NFTs interacting with reality, you need one more device: **Gonesis C1**. With Gonesis C1, you'll unleash the infinite magic of NFTs in the real world.
-
-Check more details about Gonesis C1:&#x20;
-
-{% content-ref url="gonesis-c1.md" %}
-[gonesis-c1.md](gonesis-c1.md)
-{% endcontent-ref %}
+However, if you want to truly experience the charm of NFTs interacting with reality, you need one more device: [**Gonesis C1**](gonesis-c1.md). With Gonesis C1, you'll unleash the infinite magic of NFTs in the real world.
 

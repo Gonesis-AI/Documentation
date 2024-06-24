@@ -164,7 +164,7 @@ To incorporate public memories into an NFT collection like Azuki, you need to st
 
 ## Workflow
 
-Check the [guide](best-practice-the-example-of-azuki-collection.md#workflow) of workflow.
+Check the [guide](workflow/) of workflow.
 
 ## AI721 Metadata Example
 

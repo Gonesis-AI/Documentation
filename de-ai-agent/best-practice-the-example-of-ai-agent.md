@@ -34,7 +34,7 @@ Then you can write a simple trait model like:
 
 ## Workflow
 
-Check the [guide](best-practice-the-example-of-ai-agent.md#workflow) of workflow.
+Check the [guide](workflow/) of workflow.
 
 ## AI721 Metadata Example
 
