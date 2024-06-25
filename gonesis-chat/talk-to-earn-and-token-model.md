@@ -4,7 +4,7 @@
 
 ## Talk with PFP NFT
 
-At the early stage of Gonesis Chat, **useres can only talk with PFP NFT they own.** If you don't have a PFP NFT, you can just acquire one from NFT marketplace like OpenSea and NFTGo, or [rent](pfp-rental.md) from other owners.&#x20;
+At the early stage of Gonesis Chat, **users can only talk with PFP NFT they own.** If you don't have a PFP NFT, you can just acquire one from NFT marketplace like OpenSea and NFTGo, or [rent](pfp-rental.md) from other owners.&#x20;
 
 In other words, PFP is a virtual **miner**, and talking is the process of **mining** for $GAI.&#x20;
 
