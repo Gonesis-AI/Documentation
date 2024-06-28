@@ -1,6 +1,6 @@
 # Talk-to-Earn & Token Model
 
-<figure><img src="../.gitbook/assets/经济系统场景英文版v1.0 (3).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/img_v3_02c9_1e3953a7-1870-4347-af30-e6f0483d023g.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Talk with PFP NFT
 

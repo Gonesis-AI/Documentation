@@ -45,3 +45,4 @@
 * [Website](https://gonesis.ai)
 * [X](https://x.com/GonesisAI)
 * [Discord](https://discord.com/invite/gonesis)
+* [Brand Kit](https://drive.google.com/drive/folders/11N7I2dxn0Tig6tBr\_KlbPuSSLefTo\_B\_?usp=sharing)
