@@ -82,9 +82,9 @@ We utilize token economy to attract AI agent creators with different knowledge a
 
 We will also support the existing open-source  AI agent orchestration tools like Dify.ai and CrewAI,  and provide a unified interface for application developers. **Most importantly, developers will pay the creators.**
 
-## Gonesis Chat
+## The first Talk-to-Earn AI Chat Application
 
-[Gonesis Chat](./#gonesis-chat) is an AI chat application powered by [AI721](de-ai-agent/ai721.md) (AI-NFT) and DePIN, similar to ChatGPT, but with the added benefit of earning token.
+[Gonesis Chat](gonesis-chat/) is an AI chat application powered by [AI721](de-ai-agent/ai721.md) (AI-NFT) and DePIN, similar to ChatGPT, but with the added benefit of earning token.
 
 All AI characters in Gonesis Chat are AI-NFTs that you can train, lend, or rent from others to meet everyday needs. Also, we will onboard existing NFT collections to turn into AI characters, enhancing them with more interactive features.
 
@@ -98,7 +98,7 @@ We'll release a mobile app with a next-gen AI pocket device, [**Gonesis C1**](go
 
 ## Neuro Net
 
-[Gonesis Neuro Net](./#neuro-net) is the AI-DA(AI data availability) layer and app chain for decentralized AI agents. This is a distributed network with a token economy model.&#x20;
+[Gonesis Neuro Net](gonesis-neuro-net/) is the AI-DA(AI data availability) layer and app chain for decentralized AI agents. This is a distributed network with a token economy model.&#x20;
 
 Neuro Net is essential for enhancing AI agents' scalability, and ensuring robustness against centralized control by distributing AI functions across independent nodes. It provides barrier-free access to AI agents, decentralized creation, deployment, and management, DePIN support, integration with DApps, and secure oracles for blockchain data feeds.
 
