@@ -2,7 +2,7 @@
 
 By leveraging blockchain, cryptography, LLMs, and edge computing technologies, **Neuro Net** significantly enhances the security, efficiency, and scalability of AI agent services, in a decentralized environment.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **Neuro Net** is composed of the following key modules:
 
