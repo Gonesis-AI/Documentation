@@ -4,7 +4,6 @@
 * [De-AI Agent](de-ai-agent/README.md)
   * [AI721](de-ai-agent/ai721.md)
   * [Workflow](de-ai-agent/workflow/README.md)
-    * [Workflow of LangGraph](de-ai-agent/workflow/workflow-of-langgraph.md)
     * [Workflow of Dify.ai](de-ai-agent/workflow/workflow-of-dify.ai.md)
     * [Workflow of CrewAI](de-ai-agent/workflow/workflow-of-crewai.md)
   * [Best Practice: The Example of Azuki Collection](de-ai-agent/best-practice-the-example-of-azuki-collection.md)
