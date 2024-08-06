@@ -34,7 +34,7 @@ Then you can write a simple trait model like:
 
 ## Workflow
 
-Check the [guide](workflow/) of workflow.
+Check the [guide](workflow.md) of workflow.
 
 ## AI721 Metadata Example
 

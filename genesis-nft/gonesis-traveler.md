@@ -21,9 +21,9 @@ When you own an **Traveler** NFT and continuously interact and communicate with 
 
 ## Benefits
 
-* Eligibility to purchase the first batch of [**Soul Chip**](../gonesis-neuro-net/neuro-node/soul-chip.md)**.**
+* Eligibility to purchase the first batch of [**Soul Chip**](../neuro-net/neuro-node/soul-chip.md)**.**
 * Exclusive official token airdrop and allocation.
-* Eligibility to participate in the first pre-sales of [Gonesis C1](../gonesis-chat/gonesis-c1.md).
+* Eligibility to participate in the first pre-sales of [Gonesis C1](../g-edge/gonesis-c1.md).
 * Boost multipliers with the Talk-to-Earn reward system.
 
 ## AI Personality
