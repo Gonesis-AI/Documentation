@@ -72,7 +72,7 @@ You can provide up to three examples of what other users might say to your Chara
 Some predefined categories that apply to a Character.
 
 {% hint style="info" %}
-You can have no more than 1 **Categories** selected.
+Each character can have at most 1 **Category** selected.
 {% endhint %}
 
 ### **Character Visibility**

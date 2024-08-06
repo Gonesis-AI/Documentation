@@ -1,8 +1,6 @@
 # Chat-to-Earn
 
-
-
-<figure><img src="../../.gitbook/assets/img_v3_02ck_19ef855a-d9ba-4963-86e9-2c3eedb7831g.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/img_v3_02dg_0ec58594-a1d7-4af9-879a-7537b7f64e2g.png" alt=""><figcaption></figcaption></figure>
 
 ## Introduction
 
