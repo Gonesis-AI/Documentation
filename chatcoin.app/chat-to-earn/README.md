@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The most attractive and innovated features of ChatCoin is that **you can chat with AI characters, including those well-known PFP NFTs (like CryptoPunk, BAYC, Azuki, Penguins) and other famous avatars (like cartoon IPs and celebrities) , to earn tokens.**
+The most attractive and innovated features of ChatCoin is that **you can chat with various of AI characters and earn tokens meanwhile.**
 
 If you hold the NFT you're chatting with, you will receive a significant multiplier boost.&#x20;
 

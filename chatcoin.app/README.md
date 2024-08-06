@@ -5,11 +5,11 @@ coverY: 276
 
 # ChatCoin.App
 
-ChatCoin.app is an AI chat application powered by [AI721](../de-ai-agent/ai721.md) (AI-NFT), similar to ChatGPT, but with the added benefit of earning token.
+ChatCoin.app is an AI chat application powered by [AI721](../de-ai-agent/ai721.md) (AI-NFT), similar to ChatGPT, but with the added benefit of earning token. ChatCoin will be the first application built on [Neuro Net](../neuro-net/).
 
-All AI characters in ChatCoin are AI-NFTs that you can train, lend, or rent from others to meet everyday needs. Also, we will turn existing bluechip NFTs into AI characters, enhancing them with more interactive features.
+In ChatCoin, each character has a unique personality and capability. **You can chat with well-known PFP NFTs (like CryptoPunk, BAYC, Azuki, Penguins) , virtual companions, anime girls, celebrities, influencers, and others you can imagine.**&#x20;
 
-ChatCoin will be the first application built on [Neuro Net](../neuro-net/).
+**In the meantime, you can also earn $CHAT by chatting with these characters.**
 
 ## Chat-to-Earn
 
@@ -25,7 +25,7 @@ We'll launch a token as rewards, used to unlock more fun, like different styles 
 
 ## Earn with AI Characters
 
-In ChatCoin, you can chat with any AI characters just like chatting with your friends, and **earn token rewards.**&#x20;
+In ChatCoin, you can chat with any AI characters just like chatting with your friends, and **earn $CHAT.**&#x20;
 
 Additionally, you can also invest the [character tokens](character/character-token-ct.md) of those potential characters at the early stage, to achieve a high return.&#x20;
 
