@@ -23,13 +23,19 @@ We'll launch a token as rewards, used to unlock more fun, like different styles 
 [chat-to-earn](chat-to-earn/)
 {% endcontent-ref %}
 
+## Earn with AI Characters
+
+In ChatCoin, you can chat with any AI characters just like chatting with your friends, and **earn token rewards.**&#x20;
+
+Additionally, you can also invest the [character tokens](character/character-token-ct.md) of those potential characters at the early stage, to achieve a high return.&#x20;
+
 ## Supported Platform
 
 PC, Mobile (IOS\&Android) and Telegram Mini Apps.
 
 ## Links
 
-* Web App: [chatcoin.app](./)
+* PWA(Progressive Web App): [chatcoin.app](./)
 * X: [https://x.com/chatcoinapp](https://x.com/chatcoinapp)
-* Play Bot: [https://t.me/ChatCoinAppBot](https://t.me/ChatCoinAppBot)
+* TG Bot: [https://t.me/ChatCoinAppBot](https://t.me/ChatCoinAppBot)
 * Community:  [https://t.me/ChatCoinCommunity](https://t.me/ChatCoinCommunity)

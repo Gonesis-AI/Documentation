@@ -1,5 +1,9 @@
 # Character Token (CT)
 
+{% hint style="info" %}
+This feature is still under development, and coming soon.
+{% endhint %}
+
 ## Introduction
 
 **Character Token (CT)** is a native token associated with an AI character, issued through a customizable mechanism by the creator. Imagine friend.tech but specifically for AI Characters.

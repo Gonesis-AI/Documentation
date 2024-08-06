@@ -6,7 +6,11 @@ In ChatCoin, you can chat with any AI characters just like chatting with your fr
 
 If you hold the PFP NFT corresponding to the character (like Azuki), you will unlock an exclusive ownership multiplier bonus in chat-to-earn, significantly enhancing your mining efficiency.
 
-## UGC
+## UGC (User-Generated Character)
+
+{% hint style="info" %}
+This feature is still under development and coming soon.
+{% endhint %}
 
 ChatCoin supports a new kind of UGC, **User-Generated Character.**&#x20;
 

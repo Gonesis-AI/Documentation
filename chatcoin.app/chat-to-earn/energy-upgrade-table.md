@@ -1,5 +1,9 @@
 # Energy Upgrade Table
 
+{% hint style="info" %}
+This feature is still under development and coming soon.
+{% endhint %}
+
 When the number of max level characters owned by the user meets the requirement, they can permanently increase their account's energy cap by consuming $CHAT.&#x20;
 
 Table parameters explained:
