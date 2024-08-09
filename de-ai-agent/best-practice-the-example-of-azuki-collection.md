@@ -18,7 +18,7 @@ To write a trait model for an existing NFT collection, such as the one described
 
 Those who control the NFT smart contract or have authorization over the metadata storage network can write and modify the Trait Model. This typically includes the NFT collection’s issuer or the operational team.
 
-### A Typical Prompts Structure
+### A Typical Prompt Structure
 
 Here’s how to construct such a model:
 

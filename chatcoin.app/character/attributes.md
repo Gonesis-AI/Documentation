@@ -16,17 +16,17 @@ The first thing your Character will say when starting a new conversation. If lef
 
 The avatar image will be used in combination with the name and other elements to make your Character visually interesting and unique.
 
-### **Short Description**
+### **Description**
 
-The Short Description offers a concise summary of the Character and scenario, and also serves as a Title in character listings. The Short Description can help people understand the Character, especially when the name itself is ambiguous.
+**The Description** offers a concise summary of the Character and scenario, and also serves as a Title in character listings. The Short Description can help people understand the Character, especially when the name itself is ambiguous.
 
 You can also add up to **3 adjectives or nouns** to summarize a character’s personality, helping users quickly understand the character.
 
-### **Long Description (Prompts)**
+### **Prompt**
 
 A few sentences up to a paragraph that gives more details about the Character, **act as prompts.**
 
-**The Long Description** provides an opportunity for the Character to describe their traits, history, mannerisms, and the topics they are interested in discussing. **Ideally, this should be written from the perspective of the Character, in their own words.**
+**The Prompt** provides an opportunity for the Character to describe their traits, history, mannerisms, behaviors, and the topics they are interested in discussing. **Ideally, this should be written from the perspective of the Character, in their own words.**
 
 In ChatCoin, we offer two modes for writing long descriptions:
 
