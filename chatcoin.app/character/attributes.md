@@ -24,9 +24,7 @@ You can also add up to **3 adjectives or nouns** to summarize a character’s pe
 
 ### **Prompt**
 
-A few sentences up to a paragraph that gives more details about the Character, **act as prompts.**
-
-**The Prompt** provides an opportunity for the Character to describe their traits, history, mannerisms, behaviors, and the topics they are interested in discussing. **Ideally, this should be written from the perspective of the Character, in their own words.**
+**The Prompt** forms the personalities of the characters. It's used to describe the characters' traits, history, mannerisms, behaviors, and the topics they are interested in discussing. **Ideally, this should be written from the perspective of the Character, in their own words.**
 
 In ChatCoin, we offer two modes for writing long descriptions:
 
