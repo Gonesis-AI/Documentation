@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/img_v3_02ck_be65326b-6fc3-4a25-a849-ee748243712g.png
-coverY: 276
+coverY: 772.2666666666667
 ---
 
 # ChatCoin.App
@@ -23,6 +23,12 @@ We'll launch a token as rewards, used to unlock more fun, like different styles 
 [chat-to-earn](chat-to-earn/)
 {% endcontent-ref %}
 
+## UGC: User-Generated Characters
+
+All users are able to create their own customizable characters, and issue [character tokens](character/character-token-ct.md) for them.&#x20;
+
+Imagine **friend.tech** tailored for AI characters: the more popular your characters, the more valuable they become. We are creating innovative social networks that integrate effortlessly with AI.
+
 ## Earn with AI Characters
 
 In ChatCoin, you can chat with any AI characters just like chatting with your friends, and **earn $CHAT.**&#x20;
@@ -35,7 +41,9 @@ PC, Mobile (IOS\&Android) and Telegram Mini Apps.
 
 ## Links
 
-* PWA(Progressive Web App): [chatcoin.app](./)
+* Official Website: [chatcoin.app](https://chatcoin.app)
+* PWA(Progressive Web App): [play.chatcoin.app](https://play.chatcoin.app)
+* Telegram Mini App: [https://t.me/ChatCoinAppBot](https://t.me/ChatCoinAppBot)
+* Official Channel: [https://t.me/ChatCoinAnn](https://t.me/ChatCoinAnn)
 * X: [https://x.com/chatcoinapp](https://x.com/chatcoinapp)
-* TG Bot: [https://t.me/ChatCoinAppBot](https://t.me/ChatCoinAppBot)
 * Community:  [https://t.me/ChatCoinCommunity](https://t.me/ChatCoinCommunity)
