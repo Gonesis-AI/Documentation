@@ -10,8 +10,6 @@ This feature is still under development, and coming soon.
 
 Characters can issue tokens at an initial price. **The token price adjusts according to a predefined bonding curve**: as more users buy, the price increases. Users can explore fresh characters and identify those poised to become popular. By purchasing tokens early, they support creators and can profit as the character's popularity grows.
 
-**Each character token is prefixed with "ct".**&#x20;
-
 ## The Type of Character Token
 
 Character tokens are categorized into two types:
