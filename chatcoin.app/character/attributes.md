@@ -8,23 +8,19 @@ A character's diversity comes from these unique attributes given by its creator.
 
 The core identifier of character. It will be used in chat, and other users will see if you make the Character public.&#x20;
 
-### **Greeting**
-
-The first thing your Character will say when starting a new conversation. If left blank, the user will need to go first in a new chat.
-
 ### **Avatar**
 
 The avatar image will be used in combination with the name and other elements to make your Character visually interesting and unique.
 
-### **Description**
+### **Introduction**
 
-**The Description** offers a concise summary of the Character and scenario, and also serves as a Title in character listings. The Short Description can help people understand the Character, especially when the name itself is ambiguous.
+**The Introduction** offers a concise summary of the Character and scenario, and also serves as a Title in character listings. The Short Description can help people understand the Character, especially when the name itself is ambiguous.
 
 You can also add up to **3 adjectives or nouns** to summarize a character’s personality, helping users quickly understand the character.
 
-### **Prompt**
+### Setting Description(Prompt)
 
-**The Prompt** forms the personalities of the characters. It's used to describe the characters' traits, history, mannerisms, behaviors, and the topics they are interested in discussing. **Ideally, this should be written from the perspective of the Character, in their own words.**
+**The Setting Description** forms the personalities of the characters. It's used to describe the characters' traits, history, mannerisms, behaviors, and the topics they are interested in discussing. **Ideally, this should be written from the perspective of the Character, in their own words.**
 
 In ChatCoin, we offer two modes for writing long descriptions:
 
@@ -60,6 +56,10 @@ For example, we may give a simple prompts template like this for users to custom
 * Caring
 ```
 </code></pre>
+
+### **Greeting**
+
+The first thing your Character will say when starting a new conversation. If left blank, the user will need to go first in a new chat.
 
 ### **Suggested Starters**
 
