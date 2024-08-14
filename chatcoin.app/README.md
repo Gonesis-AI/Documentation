@@ -25,7 +25,7 @@ We'll launch a token as rewards, used to unlock more fun, like different styles 
 
 ## UGC: User-Generated Characters
 
-All users are able to create their own customizable characters, and issue [character tokens](character/character-token-ct.md) for them.&#x20;
+All users are able to create their own customizable characters, and issue [character tokens](character/character-token-ctoken.md) for them.&#x20;
 
 Imagine **friend.tech** tailored for AI characters: the more popular your characters, the more valuable they become. We are creating innovative social networks that integrate effortlessly with AI.
 
@@ -33,7 +33,7 @@ Imagine **friend.tech** tailored for AI characters: the more popular your charac
 
 In ChatCoin, you can chat with any AI characters just like chatting with your friends, and **earn $CHAT.**&#x20;
 
-Additionally, you can also invest the [character tokens](character/character-token-ct.md) of those potential characters at the early stage, to achieve a high return.&#x20;
+Additionally, you can also invest the [character tokens](character/character-token-ctoken.md) of those potential characters at the early stage, to achieve a high return.&#x20;
 
 ## Supported Platform
 

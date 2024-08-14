@@ -1,4 +1,4 @@
-# Character Token (CT)
+# Character Token (CToken)
 
 {% hint style="info" %}
 This feature is still under development, and coming soon.
@@ -6,7 +6,7 @@ This feature is still under development, and coming soon.
 
 ## Introduction
 
-**Character Token (CT)** is a native token associated with an AI character, issued through a customizable mechanism by the creator. Imagine friend.tech but specifically for AI Characters.
+**Character Token (CToken)** is a native token associated with an AI character, issued through a customizable mechanism by the creator. Imagine friend.tech but specifically for AI Characters.
 
 Characters can issue tokens at an initial price. **The token price adjusts according to a predefined bonding curve**: as more users buy, the price increases. Users can explore fresh characters and identify those poised to become popular. By purchasing tokens early, they support creators and can profit as the character's popularity grows.
 
@@ -16,8 +16,8 @@ Characters can issue tokens at an initial price. **The token price adjusts accor
 
 Character tokens are categorized into two types:
 
-* **Collection Character Token(CCT)**: ChatCoin supports a collection of AI Characters. These characters often share a common worldview with similar design, but each has its own unique traits. **These characters will share the same character token**, to capture the value of any character in the collection and prevent the dilution of purchasing power. For example, we'll issue **$ctAzuki** as the **CCT** for the entire Azuki collection.
-* **Individual Character Token(ICT)**: A dedicated character token issued for a single character. This token will capture and reflect the character’s value. For example, we'll issue **$ctSatoshi** as the **ICT** for the specific AI character of [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi\_Nakamoto)(the founder of Bitcoin).
+* **Collection Character Token(CC Token)**: ChatCoin supports a collection of AI Characters. These characters often share a common worldview with similar design, but each has its own unique traits. **These characters will share the same character token**, to capture the value of any character in the collection and prevent the dilution of purchasing power. For example, we'll issue **$ctAzuki** as the **CCT** for the entire Azuki collection.
+* **Individual Character Token(IC Token)**: A dedicated character token issued for a single character. This token will capture and reflect the character’s value. For example, we'll issue **$ctSatoshi** as the **ICT** for the specific AI character of [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi\_Nakamoto)(the founder of Bitcoin).
 
 ## Why We Use Bonding Curve
 

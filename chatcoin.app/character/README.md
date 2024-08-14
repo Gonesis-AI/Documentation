@@ -18,7 +18,7 @@ ChatCoin supports a new kind of UGC, **User-Generated Character.**&#x20;
 
 **What's different is that creators can earn from their creation in ChatCoin.**
 
-Any characters can issue [Character Tokens](character-token-ct.md), a kind of meme coin that reflects the intrinsic value of a character. Users can buy or sell character tokens with a pre-defined bonding curve anytime, making the ecosystem dynamic and interactive.
+Any characters can issue [Character Tokens](character-token-ctoken.md), a kind of meme coin that reflects the intrinsic value of a character. Users can buy or sell character tokens with a pre-defined bonding curve anytime, making the ecosystem dynamic and interactive.
 
 ## Key Attributes
 
