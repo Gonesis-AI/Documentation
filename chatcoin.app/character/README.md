@@ -1,10 +1,14 @@
+---
+description: Character is your Fren!
+---
+
 # Character
 
 ## Introduction
 
-In ChatCoin, you can chat with any AI characters just like chatting with your friends, and **earn token rewards.** You can use them for knowledge acquisition, translation, entertainment, content creation, data analysis and any other kinds of personal use cases.
+In ChatCoin, you can chat with any AI characters just like chatting with your friends (that's why we call it **Fren**), and **earn token rewards.**&#x20;
 
-If you hold the PFP NFT corresponding to the character (like Azuki), you will unlock an exclusive ownership multiplier bonus in chat-to-earn, significantly enhancing your mining efficiency.
+You can ask them for knowledge acquisition, translation, entertainment, content creation, data analysis and any other kinds of personal use cases.
 
 ## UGC (User-Generated Character)
 
@@ -25,3 +29,7 @@ Any characters can issue [Character Tokens](character-token-ctoken.md), a kind o
 We use a set of simple attribute fields to describe a character’s setting and intended behavior. This makes each character interpretable and customizable.
 
 Check out [here](attributes.md) for more details.
+
+## Ownership Bonus
+
+If you hold the PFP NFT corresponding to the character (like Azuki), you will unlock an exclusive ownership multiplier bonus in chat-to-earn, significantly enhancing your mining efficiency.
