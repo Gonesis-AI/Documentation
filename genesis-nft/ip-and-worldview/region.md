@@ -63,7 +63,7 @@ The ancient civilization has remained silent beneath the sands.Nowadays, passing
 
 **Holy City:** According to a tribal legend, In ancient times, a prosperous civilization thrived in this desert, with its capital known as the "Holy City". In a colossal catastrophe, the Holy City was buried beneath towering yellow sands. Since then, everything has remained an eternal enigma.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Endless Desert:** The vast, scorching desert, where eerie mirages shift with day and night, harbors various peculiar and perilous desert creatures. It's a death zone most ordinary folks avoid, yet for brave travelers, it's a crucible to challenge oneself.
 

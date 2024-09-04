@@ -4,7 +4,7 @@
 
 ### Step 1 : Open our [bot](https://t.me/ChatCoinAppBot) on Telegram, or open [Web App](https://play.chatcoin.app) directly.
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Step 2: Press on the discover button at the bottom of our homepage
 
@@ -12,11 +12,11 @@
 
 ### Step 3: Click the "Create" button at the top right of the Discover page and press it.
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Step 4: In this section, please insert your preferred image as the character's profile picture. Then name your characters, and lastly provide a brief introduction about your character, highlighting any special traits or abilities.
 
-![](https://byterum.feishu.cn/space/api/box/stream/download/asynccode/?code=YmJlNmE1OWZhMDcxODkyZWMzYjE1ODI5MDNhNzc4ZDFfR2lJTEs2NGp4VktNcmxWV1FlMmVtclRyNmJjTU1SYkZfVG9rZW46WjBod2J4dUlmb2NtckF4WmNyYmNHVHY4bm1iXzE3MjU0MjcxMzM6MTcyNTQzMDczM19WNA)![](<../../.gitbook/assets/image (8).png>)
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Step 5: Now, select the category that best fits your character. Then choose a voice for your character, either male or female, and choose the visibility of your character, either public or private.&#x20;
 
