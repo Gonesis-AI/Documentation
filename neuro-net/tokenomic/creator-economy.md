@@ -18,7 +18,7 @@ As an AI agent creator in Gonesis, you can benefit in the following ways:
 
 ### Earnings Flow for Creators
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>How AI creators earn from AI agents.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>How AI creators earn from AI agents.</p></figcaption></figure>
 
 ## Additional Reading
 

@@ -2,7 +2,7 @@
 description: >-
   "May you explore the myriad wonders of the world, and return still as a
   youth."
-cover: ../../.gitbook/assets/image (7).png
+cover: ../../.gitbook/assets/image (7) (1).png
 coverY: -8.883097542814594
 layout:
   cover:
@@ -49,7 +49,7 @@ Sword and magic, castle and forest, knight and poet.Etheril, this magic-filled c
 **Silver Knight:** Justice, humility, honesty, dedication, as the strongest force of Silverlight Castle, the Silver Knights, wherever they may be, always adhere to their creed. To eliminate evil, protect the weak, and maintain justice are their perpetual missions.\
 
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Dragon:** As one of the earliest indigenous inhabitants of this land, these ancient beings possessed formidable magical powers, yet for unknown reasons, they gradually vanished over the course of time. Why did the dragon race disappear? Are there any remnants of the dragon race today? Where might they be? These questions have sparked intense debate among scholars. However, among the numerous conjectures, one stands out as the most credible and chilling: the dragon race did not disappear; they simply mastered the magic of transforming into humans, blending in among the crowds that traverse the continent......
 
@@ -63,7 +63,7 @@ The ancient civilization has remained silent beneath the sands.Nowadays, passing
 
 **Holy City:** According to a tribal legend, In ancient times, a prosperous civilization thrived in this desert, with its capital known as the "Holy City". In a colossal catastrophe, the Holy City was buried beneath towering yellow sands. Since then, everything has remained an eternal enigma.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Endless Desert:** The vast, scorching desert, where eerie mirages shift with day and night, harbors various peculiar and perilous desert creatures. It's a death zone most ordinary folks avoid, yet for brave travelers, it's a crucible to challenge oneself.
 
@@ -85,7 +85,7 @@ Cherry blossoms softly fall to the shamisen's tune.As the traveler picks up the 
 
 **Sakura Maze:** Here lies a hidden realm ringed by cherry blossoms, where the unwary lose themselves in the sakura maze. Yet, the wise traveler knows that the path to this land unveils itself only when the cherry blossoms peak, welcoming one into its breathtaking landscape.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Ninja:** Concealed among crowds or positioned in inconspicuous locations, they silently observe and covertly safeguard the peace as vigilant protectors. Perhaps this skilled ninjas' protection is why SakuraRealm's people always smile genuinely.
 
@@ -109,7 +109,7 @@ The historic continent remains ever fresh.Natives here warmly welcome travelers,
 
 **TeaHouse:** Travelers from afar to ShenZhou must visit a teahouse and order a cup of hot tea.This magical beverage, a specialty of the ShenZhou, is both nourishing and invigorating, popularly exported far and wide. However, in ShenZhou's ubiquitous teahouses, tea is just a daily drink for the people.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Wisdom and "Dao":** As a civilization that has been passed down for thousands of years, the wise thinkers of ShenZhou have perpetuated their ideas through generations, shaping a culture thirsty for wisdom. The ShenZhou people believe intangible wisdom surpasses all tangible forces, holding it as the world's highest power. And the ultimate wisdom they pursue is called "Dao".
 

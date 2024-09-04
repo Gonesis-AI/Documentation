@@ -8,6 +8,7 @@
     * [Level Upgrade Table](chatcoin.app/chat-to-earn/level-upgrade-table.md)
   * [Character](chatcoin.app/character/README.md)
     * [Attributes](chatcoin.app/character/attributes.md)
+    * [How to Create Your AI Character](chatcoin.app/character/how-to-create-your-ai-character.md)
     * [Character Token (CToken)](chatcoin.app/character/character-token-ctoken.md)
 * [De-AI Agent](de-ai-agent/README.md)
   * [AI721](de-ai-agent/ai721.md)

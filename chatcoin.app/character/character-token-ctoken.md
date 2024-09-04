@@ -6,27 +6,32 @@ This feature is still under development, and coming soon.
 
 ## Introduction
 
-**CToken,** also **Character Token,** is a native token associated with an AI character, issued through a customizable mechanism by the creator. Imagine friend.tech but specifically for AI Characters.
+**CToken,** also **Character Token,** is a native coin associated with an AI character, issued through a customizable mechanism by the creator. Imagine friend.tech but specifically for AI Characters.
 
 Characters can issue tokens at an initial price. **The token price adjusts according to a predefined bonding curve**: as more users buy, the price increases. Users can explore fresh characters and identify those poised to become popular. By purchasing tokens early, they support creators and can profit as the character's popularity grows.
 
-## The Type of CToken
+## How It Works
 
-CTokens are categorized into two types:
+Every AI creator can issue character tokens.&#x20;
 
-* **Individual CToken**: A dedicated character token issued for a single character. This token will capture and reflect the character’s value. For example, we'll issue **$ctSatoshi** as the **ICT** for the specific AI character of [Satoshi Nakamoto](https://en.wikipedia.org/wiki/Satoshi\_Nakamoto)(the founder of Bitcoin).
-* **Collection CToken**: ChatCoin supports a collection of AI Characters. These characters often share a common worldview with similar design, but each has its own unique traits. **These characters will share the same character token**, to capture the value of any character in the collection and prevent the dilution of purchasing power. For example, we'll issue **$ctAzuki** as the **CCT** for the entire Azuki collection.
+Each Character token is **FAIR-LAUNCH with no presale and no team allocation**, with a fixed supply of **1 million** and an intitial price of **0.001 $TON.** Everyone can buy the token on the bonding curve, and sell at any time to lock in your profits or losses.
 
-## Why We Use Bonding Curve
+### **Graduation**
 
-A bonding curve is a mathematical concept that defines the relationship between the price and supply of an asset. We use bonding curve in ChatCoin because:
+When the funding reaches **2500 $TON** in total (the token price will be \~0.01 $TON),&#x20;
 
-1. **Early buyers are encouraged to promote the character they invest in**, to draw in more users to chat with this character. As purchases grow, the price goes up, rewarding these early buyers.
-2. Tokens can be bought or sold at any time at the corresponding price, eliminating liquidity risk.
+* **2375 $TON (after a 5% graduation fee)** and the remaining supply will be deposited in STON.FI,
+* the LP will be burned so that no one can withdraw the liquidity. This will bring the coin's market cap to **\~11340 $TON (\~$64K).**
 
-## Benefit for Creators
+### Trading Fee
 
-**A portion of the transaction fees generated from trading CT will be allocated as revenue for the creators**, incentivizing them to continue producing high-quality characters.
+* Before graduation: 1% for each transaction:
+  * 0.5% for creators.
+  * 0.5% for ChatCoin,
+* After graduation: 0.5% for each transaction:
+  * 0.1% for creators,
+  * 0.1% for ChatCoin,
+  * 0.3% for ston.fi + LP.&#x20;
 
 ## Benefit for CToken Holders
 

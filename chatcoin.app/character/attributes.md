@@ -89,6 +89,8 @@ Can others see all the definition(including attribute settings) of your characte
 
 ### Voice
 
+> Coming Soon
+
 The voice tone for TTS (Text-to-Speech) function. Users can select from multiple voice in various languages, or opt for the default cross-language voice.
 
 
