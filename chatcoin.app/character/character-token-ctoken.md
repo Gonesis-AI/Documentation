@@ -14,7 +14,7 @@ Characters can issue tokens at an initial price. **The token price adjusts accor
 
 Every AI creator can issue character tokens.&#x20;
 
-Each Character token is **FAIR-LAUNCH with no presale and no team allocation**, with a fixed supply of **1 million** and an intitial price of **0.001 $TON.** Everyone can buy the token on the bonding curve, and sell at any time to lock in your profits or losses.
+Each Character token is **FAIR-LAUNCH with no presale and no team allocation**, with a fixed supply of **1 million** and an initial price of **0.001 $TON.** Everyone can buy the token on the bonding curve, and sell at any time to lock in your profits or losses.
 
 ### **Graduation**
 
