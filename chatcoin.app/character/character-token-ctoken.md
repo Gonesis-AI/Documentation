@@ -14,14 +14,14 @@ Characters can issue tokens at an initial price. **The token price adjusts accor
 
 Every AI creator can issue character tokens.&#x20;
 
-Each Character token is **FAIR-LAUNCH with no presale and no team allocation**, with a fixed supply of **1 million** and an initial price of **0.001 $TON.** Everyone can buy the token on the bonding curve, and sell at any time to lock in your profits or losses.
+Each Character token is **FAIR-LAUNCH with no private sale and no team allocation**, with a fixed supply of **1 million** and an initial price of **0.001 $TON.** Everyone can buy the token on the bonding curve, and sell at any time to lock in your profits or losses.
 
 ### **Graduation**
 
-When the funding reaches **2500 $TON** in total (the token price will be \~0.01 $TON),&#x20;
+When the funding reaches **2500 $TON** in total (the token price will be \~0.01 $TON), the token will **graduate**,
 
 * **2375 $TON (after a 5% graduation fee)** and the remaining supply will be deposited in STON.FI,
-* the LP will be burned so that no one can withdraw the liquidity. This will bring the coin's market cap to **\~11340 $TON (\~$64K).**
+* the LP will be burned so that no one can withdraw the liquidity. This will bring the coin's market cap to **\~11340 $TON (\~$60K).**
 
 ### Trading Fee
 
