@@ -1,5 +1,6 @@
 ---
 description: Character is your Fren!
+hidden: true
 ---
 
 # Character

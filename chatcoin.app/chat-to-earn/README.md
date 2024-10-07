@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Chat-to-Earn
 
 <figure><img src="../../.gitbook/assets/img_v3_02dg_0ec58594-a1d7-4af9-879a-7537b7f64e2g.png" alt=""><figcaption></figcaption></figure>
