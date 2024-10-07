@@ -1,15 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [ChatCoin.App](chatcoin.app/README.md)
-  * [Chat-to-Earn](chatcoin.app/chat-to-earn/README.md)
-    * [Dual Token Model](chatcoin.app/chat-to-earn/dual-token-model.md)
-    * [Energy Upgrade Table](chatcoin.app/chat-to-earn/energy-upgrade-table.md)
-    * [Level Upgrade Table](chatcoin.app/chat-to-earn/level-upgrade-table.md)
-  * [Character](chatcoin.app/character/README.md)
-    * [Attributes](chatcoin.app/character/attributes.md)
-    * [How to Create Your AI Character](chatcoin.app/character/how-to-create-your-ai-character.md)
-    * [Character Token (CToken)](chatcoin.app/character/character-token-ctoken.md)
+* [ChatCoin.App](chatcoin.app.md)
 * [De-AI Agent](de-ai-agent/README.md)
   * [AI721](de-ai-agent/ai721.md)
   * [Workflow](de-ai-agent/workflow.md)

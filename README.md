@@ -54,7 +54,7 @@ So, We're committed to bring these experiences to AI ecosystem**:**
 
 ## ChatCoin: The first Chat-to-Earn AI Chat Application
 
-[ChatCoin](chatcoin.app/) is an AI chat application powered by [AI721](de-ai-agent/ai721.md) (AI-NFT) and DePIN, similar to ChatGPT, but with the added benefit of earning token.
+[ChatCoin](chatcoin.app.md) is an AI chat application powered by [AI721](de-ai-agent/ai721.md) (AI-NFT) and DePIN, similar to ChatGPT, but with the added benefit of earning token.
 
 All AI characters in ChatCoin are AI-NFTs that you can train, lend, or rent from others to meet everyday needs. Also, we will onboard existing NFT collections to turn into AI characters, enhancing them with more interactive features.
 
